@@ -12,7 +12,7 @@ default or labelled so you can see why.
 
 ## Download and run (3 steps)
 
-1. Go to **[Releases](https://github.com/S-procoder/CrapClean/releases)** and download
+1. Go to **[Releases](https://github.com/QuantumCoder-14/CrapClean/releases)** and download
    `CrapClean-2.0.zip` from the latest release.
 2. Right-click the downloaded zip -> **Extract All** -> Extract.
    Do not run it from inside the zip; Windows won't find the second file.
@@ -83,7 +83,7 @@ Full detail, category by category: **[docs/SAFETY.md](docs/SAFETY.md)**.
 
 | Release | What it is | Where |
 | --- | --- | --- |
-| **1.0** | The original batch file. Kept exactly as it was, for anyone who wants it. | [tag `v1.0`](https://github.com/S-procoder/CrapClean/tree/v1.0) / `legacy/CrapClean-v1.bat` |
+| **1.0** | The original batch file. Kept exactly as it was, for anyone who wants it. | [tag `v1.0`](https://github.com/QuantumCoder-14/CrapClean/tree/v1.0) / `legacy/CrapClean-v1.bat` |
 | **2.0** | The window, the safe paths, preview, logging, restore point. | Latest release |
 
 ---
