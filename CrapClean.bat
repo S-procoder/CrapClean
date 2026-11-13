@@ -12,7 +12,7 @@ if not exist "%~dp0CrapClean.ps1" (
   echo     CrapClean.ps1
   echo.
   echo  Download the release zip from:
-  echo     https://github.com/S-procoder/CrapClean/releases
+  echo     https://github.com/QuantumCoder-14/CrapClean/releases
   echo  then right-click the zip - Extract All - and run CrapClean.bat from there.
   echo.
   pause
