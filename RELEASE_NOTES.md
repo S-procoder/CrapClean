@@ -16,7 +16,7 @@ The original CrapClean: one `.bat` file that clears temp folders, Prefetch, Rece
 and runs Disk Cleanup.
 
 This release exists so the first version stays available and unchanged. It is **not
-maintained** - use [2.0](https://github.com/S-procoder/CrapClean/releases/tag/v2.0) instead.
+maintained** - use [2.0](https://github.com/QuantumCoder-14/CrapClean/releases/tag/v2.0) instead.
 
 ### Download
 - `CrapClean.bat` - the original file, exactly as first published
